@@ -1,0 +1,20 @@
+.pass, .fail {
+  font-size: 20px;
+  font-family:sans-serif;
+}
+
+.pass {
+  color: #78c446;
+}
+
+.fail {
+  color: red;
+}
+
+#describe {
+  color: #465dc4;
+}
+
+#tests {
+  color: #4670c4;
+}
